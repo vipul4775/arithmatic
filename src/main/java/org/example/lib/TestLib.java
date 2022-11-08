@@ -1,4 +1,4 @@
-package com.github.vipultiwari45.arithmatic;
+package org.example.lib;
 
 public class TestLib {
     public int getSum(int a,int b)
